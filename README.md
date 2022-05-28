@@ -20,14 +20,15 @@ Dla sprawdzenia jakie kontenery zostały uruchomione:
 
 Są utworzone 4 kontenery:
 
-![image]()
+![image](https://github.com/Kussasin/LEMP_stack/blob/main/img/Kontainers.jpg)
 
 
 Za pomocą linku localhoost:8080 wchodzimy do PhpMyAdmin:
+
+![image](https://github.com/Kussasin/LEMP_stack/blob/main/img/Login.jpg)
 
 -login: root
 
 -hasło: root
 
-![image]()
-![image]()
+![image](https://github.com/Kussasin/LEMP_stack/blob/main/img/phpMyAdmin.jpg)
