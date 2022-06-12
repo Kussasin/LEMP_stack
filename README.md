@@ -1,4 +1,4 @@
-# Laboratorium 9
+# Laboratorium 9 - 10
 
 ## Bohdan Basistyi: TI6.1
 
